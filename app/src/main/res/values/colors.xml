@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0cbe3b</color>
+    <color name="colorPrimaryDark">#077424</color>
+    <color name="colorAccent">#d2951c</color>
+    <color name="nromalbutton">#077424</color>
+
+    <!-- Text color for the details of the earthquake in the list item -->
+    <color name="textColorActivityDetails">#898c8e</color>
+
+    <!-- Text color for the primary location of the earthquake in the list item -->
+    <color name="textColorActivityLocation">#2B3D4D</color>
+</resources>
